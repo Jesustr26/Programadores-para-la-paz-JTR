@@ -1,0 +1,4 @@
+Reflexión 
+
+Es muy importante que los proyectos de software mantengan un registro de  cambios y de versiones por que esto permite guardar un paso a paso de nuestros proyectos. A la hora de crear un proyecto es importante mantener en constante cuidado cada pequeño cambio que hagamos, esto para no perder una parte importante de lo que estamos haciendo; Git es la mejor herramienta en estos casos debido a que está nos brinda diversas funciones que nos llegan a ser muy útiles para mantener un trabajo limpio, este nos permite: guardar cada paso que hacemos, cambiar de ramas para hacer borradores y hacer pruebas antes de ejecutarlas en nuestro proyecto base, nos muestra quien hizo el cambio y también cuando lo hizo. Por eso es muy importante tener un control de cambios.
+
