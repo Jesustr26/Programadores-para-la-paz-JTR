@@ -1,0 +1,3 @@
+es una ruta Endpoint que recibe datos, procesa la información y responde al cliente en formato JSOM que dice "Reporte recibido"
+y Básicamente, esta ruta funciona como un buzón de mensajes digital para los vecinos o miembros del grupo. Sirve para que cualquier persona pueda avisar de algo importante desde su celular y el sistema lo reciba al instante.
+

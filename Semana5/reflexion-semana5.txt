@@ -1,0 +1,9 @@
+Las APIs funcionan como puentes digitales que permiten a diferentes aplicaciones conectarse y
+hablar entre sí de forma automática. En una comunidad, esto significa que cuando un vecino reporta
+un problema (como un bache, una luminaria rota o una alerta de seguridad) la información no se
+pierde en chats desordenados. La API se encarga de recibir ese dato, darle un formato estándar y
+enviarlo directamente a una base de datos centralizada o al sistema de las autoridades locales.
+Además, estas herramientas pueden categorizar los reportes por urgencia o por zona geográfica en
+tiempo real. De este modo, la información llega de inmediato a las personas correctas, facilitando
+que la comunidad esté bien organizada, informada y lista para actuar ante cualquier emergencia.
+
