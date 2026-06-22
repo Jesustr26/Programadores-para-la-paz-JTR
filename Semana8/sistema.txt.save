@@ -1,0 +1,11 @@
+la informacion que muestra cada comando es:
+uname -a:
+​Linux y Android:Confirma que estoy usando un dispositivo Android.
+​4.19.191: Es el número de versión del "motor" interno de mi sistema.
+​aarch64: Significa que mi procesador es moderno y corre a 64 bits.
+​Tue Oct 8 ... 2024: Es la fecha en la que se creó o actualizó ese "motor" del sistema.
+
+whoami:
+Muestra el nombre del usuario actual que tiene la sesión abierta en la terminal. es decir, mi nombre de usuario.
+
+Saber la info del sistema es clave para controlar el servidor y que no falle. Mirando el disco, la memoria o los errores, podes arreglar al toque si algo va lento, parchar la seguridad para q no entren intrusos y saber si falta espacio antes de que se caiga todo. Básicamente te saca las dudas y te da el control para que las app anden bien y sin sorpresas. 
