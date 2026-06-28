@@ -1,0 +1,10 @@
+Sistema operativo: Es el programa principal que maneja toda la compu y deja que los demás programas funcionen.
+
+Node.js: El entorno que permite correr código de JavaScript directamente en la computadora, sin usar internet.
+
+Aplicación server.js: El código o programa que se encarga de recibir las visitas y responderle a los usuarios.
+
+Puerto: Como una puerta con número en la compu para que los datos sepan exactamente a dónde entrar.
+
+Logs: El registro o historial donde se anota todo lo que pasa en el sistema para revisar fallas.
+

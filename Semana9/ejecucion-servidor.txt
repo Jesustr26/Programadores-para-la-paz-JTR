@@ -1,0 +1,8 @@
+cuando ejecuto el node server.js se enciende el servidor en el puerto estipulado anteriormente en el archivo
+aparece el mensaje de "servidor ejecutandose en el puerto 3000"
+cuando visitas la ruta estado aparece:
+
+{
+"estado":"Servidor funcionando",
+"servicio":"API comunitaria"
+}
