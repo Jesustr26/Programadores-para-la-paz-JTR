@@ -1,0 +1,7 @@
+Evento: Un cliente llena el formulario de contacto en la página web.
+
+Mensaje a Telegram: "¡Nuevo prospecto interesado! Alguien ha solicitado información sobre nuestros servicios de desarrollo. Revisar el panel de administración de inmediato."
+
+Información que no debe enviarse por seguridad: El correo electrónico personal del cliente, su número de teléfono o cualquier detalle de facturación ingresado en el formulario.
+
+

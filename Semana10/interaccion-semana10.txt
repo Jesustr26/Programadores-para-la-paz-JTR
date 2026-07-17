@@ -1,0 +1,16 @@
+¿Qué 2 tareas del backlog harías primero?
+
+La base de datos: Primero crearía la base de datos y la conexión básica.
+El login de usuarios: Después haría la pantalla de inicio de sesión (login) para que los usuarios puedan entrar.
+
+¿Por qué son las más importantes?
+
+Porque son la base de todo: Sin base de datos no tenemos dónde guardar la información, y sin login nadie puede usar la aplicación de forma segura. Si estas dos cosas no funcionan, no sirve de nada programar lo demás.
+
+¿Qué significa para ti que una tarea esté "terminada"?
+
+Para mí, una tarea está terminada cuando cumple con estos 3 puntos:
+Funciona bien: El código corre sin errores y hace exactamente lo que se pedía.
+Está probada: Ya la probé con diferentes datos y no se rompe.
+Subida a Git: El código está limpio, guardado y subido a nuestro repositorio de Git.
+
