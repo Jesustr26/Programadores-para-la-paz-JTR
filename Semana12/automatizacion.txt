@@ -1,0 +1,4 @@
+Evento: nueva solicitud de soporte técnico creada
+Mensaje: "Se ha registrado un nuevo ticket de soporte en la plataforma"
+Información que no debe enviarse: contraseñas, tokens de acceso, datos de tarjetas de crédito, correos personales o detalles sensibles del servidor.
+

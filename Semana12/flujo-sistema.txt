@@ -1,0 +1,6 @@
+1- Un ciudadano ingresa a la plataforma y redacta una nueva petición o causa de interés común.
+2- El sistema registra la petición en la base de datos y genera un enlace único para compartirla.
+3- Otros ciudadanos entran al enlace y apoyan la causa con un solo clic de forma digital.
+4- El sistema cuenta y acumula automáticamente cada uno de los apoyos y firmas recibidas en tiempo real.
+5- Al alcanzar la meta de apoyos, el sistema genera de forma automática un documento PDF formal con la petición y el listado de firmas para ser enviado a las autoridades.
+

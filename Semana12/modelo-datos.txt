@@ -1,0 +1,16 @@
+Causa
+id
+titulo
+descripcion
+fecha
+
+Apoyo
+id
+causa_id
+nombre
+fecha
+
+Este modelo sirve para organizar campañas de ayuda y registrar quién firma o vota por ellas.
+Causa: Es la campaña o iniciativa que se crea (su título, de qué trata y su fecha).
+Apoyo: Es la firma o voto de una persona para una campaña específica (quién apoya y cuándo lo hace).
+
