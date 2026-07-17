@@ -1,0 +1,6 @@
+Sección para crear causas (Formulario): En la parte superior habrá un formulario simple donde cualquier usuario podrá escribir el título de su causa, agregar una breve descripción de lo que necesita y poner la fecha de creación. Tendrá un botón que dice "Crear causa" para publicarla.
+Sección para ver y apoyar causas (Vista de causas): Abajo habrá una lista que mostrará todas las causas creadas por la comunidad. Cada causa se verá en una pequeña tarjeta individual que incluirá:
+El título, la descripción y la fecha de la causa.
+Un contador que muestra el número actual de apoyos (por ejemplo: "15 personas apoyan esto").
+Un botón de "Apoyar" para que los visitantes puedan sumar su voto con un solo clic.
+

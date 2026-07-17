@@ -1,0 +1,23 @@
+Entidad: Usuario
+
+Campos principales:
+id
+nombre_completo
+correo_electronico
+fecha_registro
+
+Propósito:
+Registrar y gestionar a las personas que participan y colaboran en la plataforma comunitaria.
+
+Entidad: Evento
+
+Campos principales:
+id
+titulo_evento
+descripcion
+fecha_hora
+organizador_id
+
+Propósito:
+Almacenar la información de las actividades y reuniones organizadas por la comunidad.
+

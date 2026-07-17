@@ -1,0 +1,5 @@
+El login es la puerta de entrada digital que identifica a un usuario mediante sus credenciales para darle acceso a su cuenta. Algunas rutas de la aplicación deben protegerse para asegurar que solo los usuarios autorizados ingresen a ellas.
+Esto evita que cualquier persona externa pueda ver, modificar o borrar datos sin permiso.
+Por lo tanto, nunca debe exponerse públicamente información sensible como contraseñas, datos de pago o archivos privados.
+Mantener este control es clave para garantizar la privacidad y la seguridad de todo el sistema.
+

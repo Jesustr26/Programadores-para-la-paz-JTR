@@ -1,0 +1,4 @@
+Una plataforma de participación ciudadana necesita estas herramientas por tres razones. Primero, la base de datos es indispensable para guardar las propuestas y opiniones de los usuarios de manera organizada, asegurando que sus voces no se pierdan. Segundo, la autenticación de usuarios es clave para confirmar que quienes participan son personas reales, evitando perfiles falsos que alteren las votaciones o debates. Finalmente, la protección de información es vital para cuidar los datos personales. Si la ciudadanía no se siente segura, simplemente no confiará en el sistema.
+Por lo tanto, la seguridad, el orden y la privacidad son los pilares fundamentales
+para que cualquier espacio digital de participación democrática funcione con éxito.
+
